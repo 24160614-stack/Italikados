@@ -1,7 +1,9 @@
 
 
 <?php
-$conexion = new mysqli("localhost", "deuuser", "Deu12345!", "italikados");
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+$conexion = new mysqli("localhost", "dev_user", "DevUser123!", "italikados");
 
 if ($conexion->connect_error) {
     die("Error de conexión: " . $conexion->connect_error);
