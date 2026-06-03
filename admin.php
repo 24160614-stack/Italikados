@@ -140,3 +140,4 @@ while ($fila = $resultado->fetch_assoc()) {
 
 </body>
 </html>
+<!-- ACTUALIZACIÓN: PRODUCTO ELIMINADO - FECHA: 2026-06-03 - HORA: 03:24 -->
