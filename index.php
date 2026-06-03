@@ -121,10 +121,10 @@
     <div class="cuadro-bienvenida">
         <div class="titulo-grande">
             BIENVENIDOS<br>
-            A   Italikas
+            A   Italikado
         </div>
         <div class="texto-descripcion">
-            <p>Somos una empresa dedicada a la venta de refacciones de motocicletas.</p>
+            <p>Tercera oportunidad 4SC GTJ.</p>
         </div>
         <div class="icono-moto">
             🏍️
