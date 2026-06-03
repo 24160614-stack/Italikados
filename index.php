@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -13,7 +14,6 @@
         }
 
         body {
-            /* Fondo azul/oscuro igual al diseño que hiciste */
             background-color: #0a1929;
             background-image: radial-gradient(circle at top left, #1a3b69, #0a1929 70%);
             color: white;
@@ -26,10 +26,9 @@
             margin: 0 auto;
         }
 
-        /* CUADRO PRINCIPAL CON DISEÑO IRREGULAR */
         .cuadro-bienvenida {
             background: rgba(25, 80, 140, 0.6);
-            border-radius: 60px 20px 80px 40px; /* Forma deformada como la plantilla */
+            border-radius: 60px 20px 80px 40px;
             padding: 50px 40px;
             margin-bottom: 40px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.3);
@@ -63,7 +62,6 @@
             opacity: 0.8;
         }
 
-        /* SECCIONES DE INFORMACIÓN */
         .seccion {
             background: rgba(255,255,255,0.08);
             border-radius: 30px 15px 40px 25px;
@@ -85,7 +83,6 @@
             opacity: 0.9;
         }
 
-        /* BOTÓN DE LOGIN */
         .boton-acceso {
             text-align: center;
             margin-top: 50px;
@@ -121,11 +118,10 @@
 
 <div class="contenedor-principal">
 
-    <!-- CUADRO PRINCIPAL -->
     <div class="cuadro-bienvenida">
         <div class="titulo-grande">
             BIENVENIDOS<br>
-            A JENNIFER TAHILY
+            A JENNIFER
         </div>
         <div class="texto-descripcion">
             <p>Somos una empresa dedicada a la venta de refacciones de motocicletas.</p>
@@ -135,30 +131,25 @@
         </div>
     </div>
 
-    <!-- SECCIÓN PRODUCTOS -->
     <div class="seccion">
         <h2>📦 PRODUCTOS</h2>
         <p>Contamos con una amplia variedad de refacciones de alta calidad para todo tipo de motocicletas.</p>
     </div>
 
-    <!-- SECCIÓN MISIÓN -->
     <div class="seccion">
         <h2>🎯 MISIÓN</h2>
         <p>Ofrecer productos confiables a nuestros clientes, garantizando calidad y buen servicio.</p>
     </div>
 
-    <!-- SECCIÓN VISIÓN -->
     <div class="seccion">
         <h2>🚀 VISIÓN</h2>
         <p>Ser líderes en el mercado de refacciones, reconocidos por nuestra excelencia y compromiso.</p>
     </div>
 
-    <!-- BOTÓN PARA IR AL LOGIN -->
     <div class="boton-acceso">
         <a href="login.php">🔐 IR AL SISTEMA (LOGIN)</a>
     </div>
 
-    <!-- PIE DE PÁGINA -->
     <div class="pie">
         <p>EQUIPO 2 - SISTEMAS OPERATIVOS</p>
     </div>
