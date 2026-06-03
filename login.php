@@ -84,7 +84,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <body>
     <div class="tarjeta-login">
         <div class="icono">🔐</div>
-        <h1 class="titulo">TERCERA  OPOTUNIDAD 4SC GTJ</h1>
+        <h1 class="titulo"> TERCERA  3 OPOTUNIDAD 4SC GTJ</h1>
         <p class="subtitulo">Acceso al sistema de refacciones Italika</p>
 
         <?php if(!empty($mensaje_error)): ?>
