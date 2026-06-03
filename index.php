@@ -121,7 +121,7 @@
     <div class="cuadro-bienvenida">
         <div class="titulo-grande">
             BIENVENIDOS<br>
-            A JENNIFER
+            A Italikados
         </div>
         <div class="texto-descripcion">
             <p>Somos una empresa dedicada a la venta de refacciones de motocicletas.</p>
