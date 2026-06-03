@@ -125,7 +125,7 @@
     <div class="cuadro-bienvenida">
         <div class="titulo-grande">
             BIENVENIDOS<br>
-            A ITALIKA
+            A JENNIFER
         </div>
         <div class="texto-descripcion">
             <p>Somos una empresa dedicada a la venta de refacciones de motocicletas.</p>
