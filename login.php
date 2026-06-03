@@ -7,7 +7,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     $user = trim($_POST['user']);
     $pass = trim($_POST['pass']);
 
-    if($user == "24160614@itoaxaca.edu.mx" && $pass == "24160614ITO"){
+    if($user == "24160614@itoaxaca.edu.mx" && $pass == "24160614JEN"){
         header("Location: admin.php");
         exit;
     } else {
